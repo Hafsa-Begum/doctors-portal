@@ -37,7 +37,7 @@ const AppointmentBanner = () => {
                             Make an appointment Today
                         </Typography>
                         <Typography variant='p'>
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur inventore fugit numquam porro magni culpa, reiciendis maxime dolorem accusantium sequi.                    </Typography> <br /> <br />
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur inventore fugit numquam porro magni culpa, reiciendis maxime dolorem accusantium sequi.</Typography> <br /> <br />
 
                         <Button variant='contained' style={{ backgroundColor: '#5CE7ED' }}>Learn More</Button>
                     </Box>
